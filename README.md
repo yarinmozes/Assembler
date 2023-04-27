@@ -7,7 +7,7 @@ Assignment checker feedback:
 "Score: 100
 
 Running results:
-   Compiles without errors and runs and produces outputs.
+   Compiles without errors,runs and produces outputs.
    The outputs are normal.
  
 The code:
